@@ -5,6 +5,6 @@ Organisateur pour l'année 2023-2024: Max Fathi
 Liste des exposés passés et a venir (documents disponibles en lien):
 
 - 17 Nov 2023: Simon Costes
-- 27 Oct 2023: Max Fathi [(documents)](talks/20231027)
-- 13 Oct 2023: Guillaume Garrigos
-- XX Sep 2023: Eddie Aamari
+- 27 Oct 2023: Max Fathi [Title](talks/20231027)
+- 13 Oct 2023: Guillaume Garrigos, Optimization with Neural Tangent Kernels
+- XX Sep 2023: Eddie Aamari, Neural Tangent Kernel
