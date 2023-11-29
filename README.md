@@ -1,4 +1,4 @@
-Cette page regroupe les informations concernant le GdT Stats-Probas organisé au LPSM. Les exposés ont lieu entre 10h et 12h en salle 1016 du Bâtiment Sophie Germain, Campus des Grands Moulins, Université de Paris Cité.
+Cette page regroupe les informations concernant le [GdT Stats-Probas](https://guillaume-garrigos.com/gdt-stats-probas/) organisé au LPSM. Les exposés ont lieu entre 10h et 12h en salle 1016 du Bâtiment Sophie Germain, Campus des Grands Moulins, Université de Paris Cité.
 
 Organisateur pour l'année 2023-2024: [Max Fathi](https://www.normalesup.org/~mfathi/)
 
