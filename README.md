@@ -4,6 +4,7 @@ Organisateur pour l'année 2023-2024: [Max Fathi](https://www.normalesup.org/~mf
 
 Liste des exposés passés ou à venir (documents et prises de notes possiblement disponibles en lien):
 
+- 17 Nov 2023: [Max Fathi](https://www.normalesup.org/~mfathi/), *Differential calculus on measure spaces, with optimal transport* ([notes](https://github.com/Guillaume-Garrigos/gdt-stats-probas/tree/main/talks/20231201))
 - 17 Nov 2023: [Simon Coste](https://scoste.fr/), *Les algorithmes stochastiques peuvent converger vers des lois à queue lourde* ([notes](https://github.com/Guillaume-Garrigos/gdt-stats-probas/tree/main/talks/20231117))
 - 27 Oct 2023: [Max Fathi](https://www.normalesup.org/~mfathi/), *Convergence of Gradient Descent for deep neural networks* ([notes](https://github.com/Guillaume-Garrigos/gdt-stats-probas/tree/main/talks/20231027))
 - 13 Oct 2023: [Guillaume Garrigos](https://guillaume-garrigos.com/), *Optimization with Neural Tangent Kernels* ([notes](https://github.com/Guillaume-Garrigos/gdt-stats-probas/tree/main/talks/20231013))
