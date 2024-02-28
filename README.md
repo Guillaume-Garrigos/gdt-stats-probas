@@ -2,7 +2,7 @@ Cette page regroupe les informations concernant le [GdT Stats-Probas](https://gu
 
 Organisateur pour l'année 2023-2024: [Max Fathi](https://www.normalesup.org/~mfathi/)
 
-Liste des exposés passés ou à venir (documents et prises de notes possiblement disponibles en lien):
+Liste des exposés passés ou à venir (documents et prises de notes possiblement disponibles en lien). Vous pouvez également vous abonner au calendrier du GdT via [ce lien](https://calendar.google.com/calendar/ical/bf059be5a5fd6243b028026af74ae13fedb87e6a3f12d82179b38237f47422ef%40group.calendar.google.com/public/basic.ics).
 
 - 13 Mar 2024: [Eddie Aamari](https://www.math.ens.psl.eu/~eaamari/), *A U-turn on "A U-turn on Double Descent"* ([notes](https://github.com/Guillaume-Garrigos/gdt-stats-probas/tree/main/talks/20240313))
 - 28 Fév 2024: [Maxime Laborde](https://sites.google.com/site/labordemax2/), *Descente de gradient sur les espaces métriques (et de mesure) via le transport optimal* ([notes](https://github.com/Guillaume-Garrigos/gdt-stats-probas/tree/main/talks/20240228))
